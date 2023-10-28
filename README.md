@@ -25,6 +25,8 @@ My real-life (-ish) food delivery app pet project can be found [here](https://gi
 
 Also I've done some lab works in the univercity using Swift for MacOS, they can be found [here](https://github.com/vasilevsky007/SwiftLabs7Term)
 
+My CV in PDF format can be found [here](/vasileuski-alexey-cv.pdf)
+
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/vasilevsky007)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/vasilevsky_a/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](https://t.me/vasilevsky_a)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vasilevsky007&layout=compact&show_icons=true&theme=transparent)
