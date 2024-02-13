@@ -23,6 +23,8 @@ Two apps developed through this cource can be found [here](https://github.com/va
 
 My real-life (-ish) food delivery app pet project can be found [here](https://github.com/vasilevsky007/Shawa)
 
+My UIKit internship project can be found [here](https://github.com/vasilevsky007/InternshipProject)
+
 Also I've done some lab works in the univercity using Swift for MacOS, they can be found [here](https://github.com/vasilevsky007/SwiftLabs7Term)
 
 My CV in PDF format can be found [here](/vasileuski-alexey-cv.pdf)
